@@ -1,4 +1,3 @@
-# ScripturePause support
+ScripturePause: Bible Study
 
-Public support and privacy pages for ScripturePause: Bible Blocker (Still).
-No app source code, credentials, app-user data or private QA artifacts are included.
+Reading, published sources and a private study notebook. Public support only; no app code, credentials or user data.
